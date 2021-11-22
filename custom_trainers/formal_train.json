@@ -1,0 +1,9 @@
+{
+    "greeting":{
+            "Hello *N":"Hello sir.",
+            "How are you":"Good sir and you?",
+            "Good":"",
+            "Bad":"Sorry to hear that sir.",
+            "*N":"Yes sir."
+        }
+}

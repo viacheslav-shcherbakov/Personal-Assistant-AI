@@ -1,0 +1,24 @@
+{
+    "commands":{
+        "reminder":{
+            "keywords":[
+                "remind me",
+                "set a reminder",
+                "don't let me forget",
+                "I need to remember to",
+                "I can't forget to"
+            ],
+            "responses":[
+                "I will remind you to",
+                "Okay, I will remind you",
+                "Shall I remind you?",
+                "Reminder set"
+            ],
+            "info":{
+                "name":"Reminder Module",
+                "details":"Created to handle reminder requests",
+                "creation_date":"11/20/2021 1:49 PM"
+            }
+        }
+    }
+}
