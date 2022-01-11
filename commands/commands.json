@@ -1,19 +1,12 @@
 {
     "commands":{
         "reminder":{
-            "keywords":[
-                "remind me",
-                "set a reminder",
-                "don't let me forget",
-                "I need to remember to",
-                "I can't forget to"
-            ],
-            "responses":[
-                "I will remind you to",
-                "Okay, I will remind you",
-                "Shall I remind you?",
-                "Reminder set"
-            ],
+            "training":{
+                "remind me":"I will remind you to",
+                "set a reminder":"Okay, I will remind you",
+                "don't let me forget":"Shall I remind you?",
+                "I need to remember to":"Reminder set"
+            },
             "info":{
                 "name":"Reminder Module",
                 "details":"Created to handle reminder requests",
