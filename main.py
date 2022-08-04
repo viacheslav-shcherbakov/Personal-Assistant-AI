@@ -1,6 +1,6 @@
 """
 Personal Assistant v0.2
-Created by: Josh Vitvitsky
+Created by: Josh
 10/20/2021 11:00 AM
 """
 import os
